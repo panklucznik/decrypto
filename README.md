@@ -1,7 +1,10 @@
 # Decrypto - Polish
 
+https://panklucznik.github.io/decrypto/
+
 Original project:
-https://whoawhoa.github.io/decrypto/
+https://github.com/WhoaWhoa/decrypto
+
 
 ## Decrypto - How To Play
 
