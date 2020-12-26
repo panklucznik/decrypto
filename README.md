@@ -1,5 +1,6 @@
-# Decrypto
+# Decrypto - Polish
 
+Original project:
 https://whoawhoa.github.io/decrypto/
 
 ## Decrypto - How To Play
